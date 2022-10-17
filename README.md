@@ -1,1 +1,1 @@
-creating formatted output
+creating a formatted output
