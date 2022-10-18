@@ -1,1 +1,5 @@
-creating a formatted output
+# Creating Printf function
+## Collaborators
+
+- Kelly oteri
+- Obinneji chibuzor
